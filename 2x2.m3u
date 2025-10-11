@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2x2.ru" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer"  tvg-logo="http://live.domatv.net/posts/2018-11/1542694676_2x2.png",2х2
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://mydomatv.alwaysdata.net/?action=m3u8&channel=1
