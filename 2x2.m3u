@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="ю_тв" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" tvg-logo="http://live.domatv.net/posts/2018-12/1543639914_yu_tv.png",Ю ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://mydomatv.alwaysdata.net/?action=m3u8&channel=1
-#EXTINF:-1 tvg-id="ю_тв" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" tvg-logo="http://live.domatv.net/posts/2018-12/1543639914_yu_tv.png",Ю ТВ
+#EXTINF:-1 tvg-id="ю_тв" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" tvg-logo="http://live.domatv.net/posts/2018-12/1543639914_yu_tv.png",Ю ТВ Ok.ru
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://mydomatv.alwaysdata.net/?action=okrum3u8&channel=1
 #EXTINF:-1 tvg-id="шокирующее_hd" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" tvg-logo="http://live.domatv.net/posts/2019-02/1550061609_shokirujuschee_hd.png",Шокирующее HD
@@ -377,7 +377,7 @@ http://mydomatv.alwaysdata.net/?action=m3u8&channel=124
 #EXTINF:-1 tvg-id="2x2" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" tvg-logo="http://live.domatv.net/posts/2018-11/1542694676_2x2.png",2x2
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://mydomatv.alwaysdata.net/?action=m3u8&channel=125
-#EXTINF:-1 tvg-id="2x2" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" tvg-logo="http://live.domatv.net/posts/2018-11/1542694676_2x2.png",2x2
+#EXTINF:-1 tvg-id="2x2" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" tvg-logo="http://live.domatv.net/posts/2018-11/1542694676_2x2.png",2x2 Ok.ru
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://mydomatv.alwaysdata.net/?action=okrum3u8&channel=2
 #EXTINF:-1 tvg-id="24_техно" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" tvg-logo="http://live.domatv.net/posts/2019-01/1547909999_24texno.png",24 Техно
@@ -386,5 +386,3 @@ http://mydomatv.alwaysdata.net/?action=m3u8&channel=126
 #EXTINF:-1 tvg-id="2+2" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" tvg-logo="http://live.domatv.net/posts/2019-05/1558121354_2_2.png",2+2
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://mydomatv.alwaysdata.net/?action=m3u8&channel=127
-
-
