@@ -5,7 +5,7 @@
 //   const cedictText = await fetch("./cedict_ts.u8").then(r => r.text());
 //   attachChineseTokenizerPopup(document.querySelector("#myEl"), { cedictText });
 
-import { load as loadTokenizer } from "./chinese-tokenizer.esm.js";
+import { load as loadTokenizer } from "https://raw.githubusercontent.com/thenoobtester/djrjp/main/chinese-tokenizer.esm.js";
 
 const CT_STYLE_ID = "ct-popup-style-v1";
 
