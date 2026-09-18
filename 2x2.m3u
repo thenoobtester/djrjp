@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-id="ю_тв" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" tvg-logo="http://live.domatv.net/posts/2018-12/1543639914_yu_tv.png",Ю ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://mydomadenotv.thenoobtester.deno.net/?action=m3u8&channel=1
+#EXTINF:-1, tvg-id="M6.fr" tvg-logo="https://static.teleboy.ch/shared/stations/312/icon320_light.png?v2023_48_0" tvg-name="M6 HD"  group-title="GENERALISTE",M6 HD
+http://151.80.18.177:86/M6_HD/index.m3u8
 #EXTINF:-1 tvg-id="ю_тв" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer" tvg-logo="http://live.domatv.net/posts/2018-12/1543639914_yu_tv.png",Ю ТВ Ok.ru
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://mydomadenotv.thenoobtester.deno.net/?action=okrum3u8&channel=1
